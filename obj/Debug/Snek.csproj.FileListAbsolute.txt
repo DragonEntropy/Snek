@@ -1,0 +1,11 @@
+C:\Users\alexj\source\repos\Snek\bin\Debug\Snek.exe.config
+C:\Users\alexj\source\repos\Snek\bin\Debug\Snek.exe
+C:\Users\alexj\source\repos\Snek\bin\Debug\Snek.pdb
+C:\Users\alexj\source\repos\Snek\obj\Debug\Snek.csproj.AssemblyReference.cache
+C:\Users\alexj\source\repos\Snek\obj\Debug\Snek.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexj\source\repos\Snek\obj\Debug\Snek.Properties.Resources.resources
+C:\Users\alexj\source\repos\Snek\obj\Debug\Snek.csproj.GenerateResource.cache
+C:\Users\alexj\source\repos\Snek\obj\Debug\Snek.csproj.CoreCompileInputs.cache
+C:\Users\alexj\source\repos\Snek\obj\Debug\Snek.exe
+C:\Users\alexj\source\repos\Snek\obj\Debug\Snek.pdb
+C:\Users\alexj\source\repos\Snek\obj\Debug\Snek.mainForm.resources
